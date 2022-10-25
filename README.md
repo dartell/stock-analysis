@@ -10,6 +10,10 @@
   
   I also compared the 2017 stock performance to 2018:
   
+  ![2017 stock performance](https://github.com/dartell/stock-analysis/blob/main/Resources/VBA_Challenge_2017_analysis.PNG)![2018 stock performance](https://github.com/dartell/stock-analysis/blob/main/Resources/VBA_Challenge_2018_analysis.PNG)
+   
+   2018 was a down year compared to 2017.  2017 had great returns
+  
 
 ### Summary: In a summary statement, address the following questions.
 What are the advantages or disadvantages of refactoring code?
